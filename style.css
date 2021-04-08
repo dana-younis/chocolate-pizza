@@ -6,12 +6,12 @@ body{
 header h1{
     font-family: 'Pacifico', cursive;
     
-
 margin-left: 50px;
     margin-top: -59px;}
     header h4{  
           margin-left: 50px;
-          margin-top: -28px
+          margin-top: -28px;
+          color: rgb(105, 105, 105);
        
     }
     header div{
@@ -30,8 +30,8 @@ margin-left: 50px;
         width: 1066px;
     }
     main h4 {
-        margin-left: 98px;
-        margin-top: 14px;
+           color: rgba(128, 128, 128, 0.425);
+    margin-top: -33px;
 
     }
     main div h2{
@@ -39,3 +39,39 @@ margin-left: 50px;
         margin-bottom: -27px;
         margin-top: -62px;
     }
+
+    .footer{    margin-left: 50%;
+        margin-top: -41px;
+    }
+    h5{
+        color: rgba(128, 128, 128, 0.377);
+        margin-left: 458px;
+    }div h4{
+       
+        color: gray;
+    }
+main h2{
+    color: grey;
+}
+main div h2{
+    color: black;
+}
+
+.print{
+    margin: 12px;
+    margin-top: -53px;
+    margin-left: 94%;
+    color: rgba(128, 128, 128, 0.425);
+}
+h6{
+    margin-left: 95%;
+    margin-bottom: 5px;
+    margin-top: -29px;
+    color: grey;
+}
+
+h7{
+    color: grey;
+    margin-left: 100px;
+    font-size: large;
+}
