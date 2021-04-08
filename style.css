@@ -1,0 +1,41 @@
+
+body{
+    margin: 10%;
+}
+
+header h1{
+    font-family: 'Pacifico', cursive;
+    
+
+margin-left: 50px;
+    margin-top: -59px;}
+    header h4{  
+          margin-left: 50px;
+          margin-top: -28px
+       
+    }
+    header div{
+        margin-top: -53px;
+        margin-left: 79%;
+    }
+    .hero {
+        width: 1066px;
+    }
+    main h1 {
+        margin-top: 60px;
+        font-size: 48px;
+    
+    }
+    .list{
+        width: 1066px;
+    }
+    main h4 {
+        margin-left: 98px;
+        margin-top: 14px;
+
+    }
+    main div h2{
+        margin-left: 100px;
+        margin-bottom: -27px;
+        margin-top: -62px;
+    }
