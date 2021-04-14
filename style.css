@@ -1,4 +1,6 @@
-
+*{
+    box-sizing: border-box;
+}
 body{
     margin: 10%;
 }
@@ -75,3 +77,11 @@ h7{
     margin-left: 100px;
     font-size: large;
 }
+
+
+form{
+    background-image:url("img/list-bg.png") ;
+    height: 159px;
+}
+
+
